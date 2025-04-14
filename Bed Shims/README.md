@@ -7,9 +7,10 @@ The Ender-5 Max build plate is quite thin for its size which results in signific
 3. Unplug machine, remove bed mount screw closest to the center of the machine, then back out the outer screw 2-3 turns.
 4. Slide the required shim stack-up under the mount, re-secure the mount.
    - _Do not overtighten screws or the shims will get compressed._
-6. In the Orca Slicer "Device" tab, clear the current bed mesh data.
-7. Power the machine on and perform all calibration routines.
-8. Once calibration is complete, in the Orca Slicer "Device" tab, evaluate the current bed mesh data to see if you got the desired result.
+6. Plug in and power on the machine.
+7. In the Orca Slicer "Device" tab, clear the current bed mesh data.
+8. Perform all printer calibration routines.
+9. Once calibration is complete, in the Orca Slicer "Device" tab, evaluate the current bed mesh data to see if you achieved the desired result.
 ### Shim Printing Instructions
 - Print in PETG or similar
 - Print with .125mm layer height
