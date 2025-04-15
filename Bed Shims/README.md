@@ -22,6 +22,7 @@ The Ender-5 Max build plate is quite thin for its size which results in signific
   - 5 perimeter walls for .4mm nozzle
 ### Other Info
 Shims have telltales that allow you to quickly check stack-up without removal:
-- .5mm: Tab is closest to the center of the printer
-- .25mm: Tab is centered between the bed mount screws
-- .125mm: Tab is closest to the outer perimeter of the printer
+- .5mm: Tab is closest to the center of the printer (light blue)
+- .25mm: Tab is centered between the bed mount screws (gray)
+- .125mm: Tab is closest to the outer perimeter of the printer (dark blue)
+![Shim Render](https://github.com/Xorlent/Ender-5-Max/blob/main/Bed%20Shims/Shims.jpg "Shims")
