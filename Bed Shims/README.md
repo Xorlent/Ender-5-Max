@@ -4,10 +4,10 @@ The Ender-5 Max build plate is quite thin for its size which results in signific
 ### Preparation
 1. It is highly recommended you add a thin washer to all of the bed mount screws on the left side of the printer, as the shoulders on the supplied screw heads are not large enough for proper fastening.
 2. With the printer powered on: In Orca Slicer, connect to your printer and click the "Device" tab
-3. Scroll down and within the right-hand info column you will see a 3D graph of the measured mesh.  If the mesh does not appear or looks like incorrect data, clear the current bed mesh data and perform all printer calibration routines, then move on "Evaluating Your Bed Mesh".
+3. Scroll down; within the right-hand info column you will see a 3D graph of the measured mesh.  If the mesh does not appear or looks like incorrect data, clear the current bed mesh data and perform all printer calibration routines, then move on "Evaluating Your Bed Mesh".
 ### Evaluating Your Bed Mesh
 1. In Orca Slicer, connect to your printer and click the "Device" tab
-2. Scroll down and within the right-hand info column you will see a 3D graph of the measured mesh.  Assess which corners of the bed need shims to bring them near level with the highest corner and print the required shims.
+2. Scroll down; within the right-hand info column you will see a 3D graph of the measured mesh.  Assess which corners of the bed need shims to bring them near level with the highest corner and print the required shims.
 3. Unplug machine, remove bed mount screw closest to the center of the machine, then back out the outer screw 2-3 turns.
 4. Slide the required shim stack-up under the mount, re-secure the mount.
    - _Do not overtighten screws or the shims will get compressed._
