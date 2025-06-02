@@ -13,5 +13,5 @@ Bought an Ender-5 Max enclosure only to find the print head cable drags badly on
    - Do not remove the center M3 screw, this will remain in place
 3. Install the printed base using two 12-15mm long M3 screws
 4. Capture the print head cable with the printed cap and secure the cap with two 4x15mm wood screws
-5. Reinstall the enclosure lid.
+5. Reinstall the enclosure lid.  
 ![Holddown render](https://github.com/Xorlent/Ender-5-Max/blob/main/Cable%20Holddown/Holddown.jpg "Holddown")
