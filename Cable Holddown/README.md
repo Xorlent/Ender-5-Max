@@ -1,6 +1,6 @@
 ## Ender-5 Max Print Head Cable Holddown
 ### Background
-Bought an Ender-5 Max enclosure only to find the print head cable drags badly on the roof of the enclosure?  Here is the fix.
+Did you buy an Ender-5 Max enclosure only to find the print head cable drags badly on the roof of the enclosure?  Here is the fix.
 ### Materials Needed
 1. Two 12-15mm long M3 screws
    - These will replace the side screws currently holding down your print head control cable
